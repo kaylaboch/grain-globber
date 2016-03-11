@@ -1,4 +1,5 @@
 var $ul = $('ul');
+
 $ul.addClass('grains-list');
 
 grains.forEach(function (grain) {
