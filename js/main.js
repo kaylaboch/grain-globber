@@ -3,7 +3,7 @@ $ul.addClass('grains-list');
 
 grains.forEach(function (grain) {
   var $li = $('<li>');
-  var $figure = $('<figure');
+  var $figure = $('<figure>');
   var $img = $('<img>');
   var $h2 = $('<h2>');
   var $description = $('<p>');
