@@ -10,7 +10,7 @@ html {
 .grains {
   margin: 0;
   padding: 0;
-
+  float: left;
   list-style-type: none;
 }
 
